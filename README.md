@@ -1,1 +1,2 @@
 # Two-months
+In two months, I want to be able to better understand coding. I would like to create an app that can break down artists, genres, and albums based on the music you listen to. You would type in a few albums, songs, etc. that you like and the app would pull up music similar to that. 
